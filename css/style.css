@@ -1,0 +1,20 @@
+div.red {
+    border: 5px solid green;
+    background-color: white;
+}
+
+div.black{
+    border-left: 3px red solid;
+    background-color: greenyellow;
+}
+div.rounded{
+    border-radius: 7px;
+    border:3px solid black;
+}
+
+#m{
+    size
+    border-radius: 7px;
+    background-color: skyblue;
+    border-block-end: 3px solid  red;
+}
